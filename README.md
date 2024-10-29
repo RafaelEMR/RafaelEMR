@@ -24,7 +24,7 @@ And I have several cybersecurity and networking certifications, such as CCNA, CC
 <img title="Kali Linux" align="left" alt="Kali Linux" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" />
 <img title="Burp Suite" align="left" alt="Burp Suite" width="30px" style="padding-right: 10px;" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" />
 <img title="Linux" align="left" alt="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-          
+<img title="NMap" align="left" alt="NMap" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" />
 <br/>
 <br/>
 <br/>
